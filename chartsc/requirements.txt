@@ -1,0 +1,6 @@
+gradio
+python-dotenv
+selenium
+webdriver-manager
+google-adk
+google-genai
