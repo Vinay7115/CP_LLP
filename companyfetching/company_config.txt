@@ -1,0 +1,47 @@
+# Company Configuration File
+# Format: TICKER:Company Full Name
+# One company per line
+# Lines starting with # are comments and will be ignored
+
+# IT Services Companies
+#TCS:Tata Consultancy Services Ltd
+#INFY:Infosys Ltd
+#HCLTECH:HCL Technologies Ltd
+
+
+
+
+
+
+WIPRO:Wipro Ltd
+TECHM:Tech Mahindra Ltd
+
+# Banking & Financial Services
+# HDFCBANK:HDFC Bank Ltd
+# ICICIBANK:ICICI Bank Ltd
+#AXISBANK:Axis Bank Ltd
+# SBIN:State Bank of India
+# KOTAKBANK:Kotak Mahindra Bank Ltd
+
+# Consumer Goods
+# ITC:ITC Ltd
+# HINDUNILVR:Hindustan Unilever Ltd
+# NESTLEIND:Nestle India Ltd
+# BRITANNIA:Britannia Industries Ltd
+
+# Automobiles
+# MARUTI:Maruti Suzuki India Ltd
+# M&M:Mahindra & Mahindra Ltd
+# TATAMOTORS:Tata Motors Ltd
+# BAJAJ-AUTO:Bajaj Auto Ltd
+# Pharmaceuticals
+# SUNPHARMA:Sun Pharmaceutical Industries Ltd
+# DRREDDY:Dr. Reddy's Laboratories Ltd
+# CIPLA:Cipla Ltd
+# LUPIN:Lupin Ltd
+
+# Energy & Oil
+# RELIANCE:Reliance Industries Ltd
+# ONGC:Oil and Natural Gas Corporation Ltd
+# NTPC:NTPC Ltd
+# POWERGRID:Power Grid Corporation of India Ltd
